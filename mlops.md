@@ -19,7 +19,7 @@ MLOps is an ML engineering culture that includes following practise
 
 The ML or Data science work starts from business' problem. Next step is collecting data, then after that model building testing the model and deployment of the model. Continously monitor the model if the model performace not meeting the client expectation (not solving the busineers problem) retrain the model.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://neptune.ai/blog/life-cycle-of-a-machine-learning-project" %}
 
