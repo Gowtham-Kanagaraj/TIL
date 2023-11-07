@@ -19,7 +19,7 @@ MLOps is an ML engineering culture that includes following practise
 
 The ML or Data science work starts from business' problem. Next step is collecting data, then after that model building testing the model and deployment of the model. Continously monitor the model if the model performace not meeting the client expectation (not solving the busineers problem) retrain the model.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://neptune.ai/blog/life-cycle-of-a-machine-learning-project" %}
 
@@ -45,7 +45,7 @@ If my model predict out of 8 time is 5 time is actual fraud and other 3 times it
 
 ## MLOps lifecycle
 
-<figure><img src=".gitbook/assets/3.webp" alt=""><figcaption><p><a href="https://addepto.com/blog/mlops-what-is-it-and-how-to-implement-it/">https://addepto.com/blog/mlops-what-is-it-and-how-to-implement-it/</a> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.webp" alt=""><figcaption><p><a href="https://addepto.com/blog/mlops-what-is-it-and-how-to-implement-it/">https://addepto.com/blog/mlops-what-is-it-and-how-to-implement-it/</a> </p></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@ MLOPs operations
 
 {% embed url="https://towardsdatascience.com/what-is-mlops-everything-you-must-know-to-get-started-523f2d0b8bd8" %}
 
-<figure><img src=".gitbook/assets/1 wr7uGBu9Kb918igOxhJVlA.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 wr7uGBu9Kb918igOxhJVlA.webp" alt=""><figcaption></figcaption></figure>
 
 
 
