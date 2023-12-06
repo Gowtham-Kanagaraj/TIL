@@ -2,6 +2,7 @@
 
 * [TIL](README.md)
 * [Data Structures and Algorithms](data-structures-and-algorithms/README.md)
+  * [Array](data-structures-and-algorithms/array.md)
   * [Algorithmic complexity / Big-O / Asymptotic analysis](data-structures-and-algorithms/algorithmic-complexity-big-o-asymptotic-analysis.md)
 * [Python](python.md)
 * [SQL](sql.md)
